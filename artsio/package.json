@@ -1,0 +1,11 @@
+{
+  "name": "artsio",
+  "version": "1.0.0",
+  "description": "An Online Marketplace giving independent artists a meaningful new way to sell their creations. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
